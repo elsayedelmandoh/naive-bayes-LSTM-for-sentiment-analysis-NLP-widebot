@@ -80,7 +80,7 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 
 ## Author
 
-This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn and Twitter/X](linktr.ee/elsayedelmandoh) for updates and discussions related to Machine learning, deep learning and NLP.
+This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn and Twitter/X](https://linktr.ee/elsayedelmandoh) for updates and discussions related to Machine learning, deep learning and NLP.
 
 Happy coding!
 
