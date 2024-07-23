@@ -16,7 +16,7 @@
 
 
 ## Abstract
-This project involves developing a pipeline for sentiment analysis on text data, such as product reviews or social media posts. The goal is to classify sentiment into positive, negative, or neutral categories using both traditional NLP approaches and deep learning methods. The project includes data preprocessing, model building, hyperparameter tuning, and performance evaluation.
+Developed a sentiment analysis pipeline to classify text into positive, negative, or neutral categories. utilizing NLTK for text preprocessing and TF-IDF for feature extraction. Implemented two models: a machine learning model using Naive Bayes, targeting approximately 93% validation accuracy and 91% testing accuracy, and a deep learning model using LSTM, with both validation and testing accuracies around 92%
 
 ## Data Acquisition
 Link: [Social Media Sentiments Analysis Dataset](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
